@@ -1,0 +1,17 @@
+name: timevalidated_encryption
+description: "A Dart package for time-validated encryption."
+version: 0.0.1
+# homepage:
+
+environment:
+  sdk: '>=3.2.0-134.1.beta <4.0.0'
+
+dependencies:
+  encrypt:
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
+
+# flutter:
+
